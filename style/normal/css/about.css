@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document About.xml */
+.vcard{
+width:80%;
+margin:10px auto;
+padding:10px;
+border:1px solid #666666;
+background-color:#CCCCCC;
+}
+.vcard strong{
+margin-right:4px;
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cssforest>
+	<language>blog(en)</language>
+	<styles>normal</styles>
+	<header>
+		<title>
+			<web-name>CSSForest.org</web-name>
+			<beta>1.0</beta>
+			<url>http://www.cssforest.org</url>
+		</title>
+		<menu>
+			<menu-li url="index.xml" accesskey="I">index</menu-li>
+			<menu-li url="article.xml" accesskey="R">articles</menu-li>
+			<menu-li url="about.xml" accesskey="A">about</menu-li>
+		</menu>
+	</header>
+	<footer>
+		<about>
+			<info type="Producer &amp; UI Designer">
+				<name url="about.xml">GhostZhang</name>
+			</info>
+		</about>
+		<copyright href="http://creativecommons.org/licenses/by/3.0/">Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 3.0 License.</copyright>
+	</footer>
+</cssforest>

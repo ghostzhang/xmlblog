@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/about.xsl"?>
+<cssforest title="About">
+	<header>
+		<css>about.css</css>
+		<menu custom="no"/>
+		<signposts>
+			<nonce>about</nonce>
+		</signposts>
+	</header>
+	<page>
+		<vcard>
+			<info type="Producer &amp; UI Designer">
+				<logo alt="Ghost" src="images/mylogo9we.gif"/>
+				<fn>
+					<given-name>Ghost</given-name>
+					<family-name>Zhang</family-name>
+				</fn>
+				<email>lovej1bz@gmail.com</email>
+				<qq>22168741</qq>
+				<org>
+					<url>CSSForest.org</url>
+					<url>WebReBuild.org</url>
+				</org>
+				<working>
+					<url>http://www.tencent.com</url>
+					<name>Tencent</name>
+				</working>
+				<adr>
+					<type name="work">
+						<post-office-box>09153</post-office-box>
+						<locality>FIYTA Hi-tech Building</locality>
+						<street-address>Gaoxinnanyi Avenue</street-address>
+						<extended-address>Southern District of Hi-tech Park</extended-address>
+						<region>Shenzhen</region>
+						<country-name>China</country-name>
+						<postal-code>518057</postal-code>
+					</type>
+				</adr>
+				<blog>http://blog.cssforest.org/</blog>
+			</info>
+		</vcard>
+	</page>
+</cssforest>

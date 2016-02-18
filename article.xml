@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/article.xsl"?>
+<cssforest title="article">
+	<keywords>
+		RSS
+	</keywords>
+	<header>
+		<css>article.css</css>
+		<menu custom="no">
+			<menu-li>stats</menu-li>
+		</menu>
+		<signposts>
+			<nonce>articles</nonce>
+		</signposts>
+	</header>
+	<page>
+		<rss type="article" url="http://www.cssforest.org/xmlbeta/rss/" />
+	</page>
+</cssforest>
